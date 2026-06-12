@@ -1,4 +1,4 @@
-# HookSim
+# HookSim - 主要用于hook tiktok
 
 HookSim is a small LSPosed module for learning and testing modern libxposed API 101 hooks.
 
